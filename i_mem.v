@@ -1,5 +1,5 @@
 /*
-* Grupo: Jose de Lemos, Joao Pedro Martins,  Leticia Medeiras, Sarah Lima
+* Grupo: José de Lemos, João Pedro Martins, Letícia Medeiros, Sarah Lima
 * Atividade: Projeto 02 - 2VA
 * Disciplina: Arquitetura e Organizacao de Computadores
 * Semestre: 2026.2
